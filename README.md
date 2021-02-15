@@ -1,11 +1,9 @@
 # stacks_C3emittersVANDELS
 This repository contains the spectra used for the analysis of CIII] emitters in VANDELS presented in Llerena et al. 2021
 
-We made median stacking with a sample of 217 galaxies splitting it by ranges of mass (5 bins) and also ranges of U magnitude (6 bins), Ks magnitude (6 bins) and FUV (1500A) magnitude (6 bins), from BAGPIPES SED fitting.  We also have stacks by equivalent width (EW) of LyA (4 bins) and CIII] (3bins)
+We made median stacking with a sample of 217 galaxies splitting it by ranges of mass (5 bins) and also ranges of U magnitude (6 bins), Ks magnitude (6 bins) and FUV (1500A) magnitude (6 bins), from BAGPIPES SED fitting.  We also have stacks by equivalent width (EW) of LyA (4 bins) and CIII] (3 bins)
 
-The bin distribution can be seen in the “sample*.jpg” files. The vertical dashed lines are the limits of each bin. 
-
-There are 6 folders: M_1500, mass, U_VIMOS, and Ks_VISTA,  EWLyA and EWCIII] depending on the parameter. 
+There are 6 folders: M_1500, Stellar mass, U_VIMOS, and Ks_VISTA,  EWLyA and EWCIII] depending on the parameter. 
 
 Inside each folder, there are 4 subfolders (StackA, StackB, StackC, StackD) depending on the galaxies included in the stacks. 
 “StackA” : all galaxies in the bin are included in the stack. 
